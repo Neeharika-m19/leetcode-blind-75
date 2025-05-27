@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
