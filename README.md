@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0268-missing-number) |
 ## Hash Table
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
