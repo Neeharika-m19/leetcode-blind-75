@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
