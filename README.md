@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,17 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Neeharika-m19/leetcode-blind-75/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
